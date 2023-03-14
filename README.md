@@ -1,4 +1,4 @@
-# Aware-Transformer : A novel pure Transformer-based model for Remote Sensing Image Captioning
+
 ### main.py 
 ### models: encoder-decoder architecture 
 ### mssydney: processed data
