@@ -1,11 +1,11 @@
 # Aware-Transformer : A novel pure Transformer-based model for Remote Sensing Image Captioning
-# main.py 
-# model: encoder-decoder architecture 
-# mssydney: processed data
-# AwareT_Sydney: execute folder
+### main.py 
+### model: encoder-decoder architecture 
+### mssydney: processed data
+### AwareT_Sydney: execute folder
 
 
-#Note: Python 3.6 is required to run our code.
+#Note: Python 3.8 is required to run our code.
 ## Requirements
 - cuda>10
 - pytorch 1.10.0
